@@ -700,8 +700,8 @@ footer > p {
   .lightmode {
     bottom: 1.5rem;
     left: 1.5rem;
-    width: 50px;
-    height: 50px;
+    width: 40px;
+    height: 40px;
   }
   .lightmode span {
     font-size: 1.5rem;
