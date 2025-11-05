@@ -341,7 +341,7 @@ footer {
 }
 
 footer > p {
-  margin-left: 250px;
+  margin-left: 230px;
   padding-top: 35px;
   text-align: center;
   color: #99ecd1;
@@ -445,9 +445,7 @@ footer > p {
   font-size: 2rem;
   line-height: 1;
 }
-footer > p {
-  margin-left: 50px;
-}
+
 /* ==== RESPONSIF ==== */
 
 /* ==== RESPONSIF UNTUK TABLET ==== */
