@@ -1,2 +1,4 @@
 # Final Project Frontend Learning Labs
-lorem ipsum
+NAMA : MUHAMMAD HAIDAR AMRU
+NIM : L0125025
+
